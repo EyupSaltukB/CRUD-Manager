@@ -1,7 +1,13 @@
 # CRUD Manager App
 CRUD (Create - Read - Update - Delete)
+iPhone 15 platformu üzerinde tasarlandı.
 
 # Kullanılan Teknolojiler
+
+- Java
+- Javascript
+- Objective - C
+- Objective ++
 
 # Ekran Görüntüleri
 
